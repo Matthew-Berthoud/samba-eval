@@ -1,0 +1,12 @@
+goos: darwin
+goarch: arm64
+pkg: github.com/etclab/pre
+cpu: Apple M1
+BenchmarkRandomGt-8        	      75	  17181747 ns/op
+BenchmarkEncrypt-8         	     122	   9529149 ns/op
+BenchmarkReEncrypt-8       	     272	   4350180 ns/op
+BenchmarkDecrypt1-8        	      86	  13625112 ns/op
+BenchmarkDecrypt2-8        	     150	   7981654 ns/op
+BenchmarkKdfGtToAes256-8   	  144741	      8392 ns/op
+PASS
+ok  	github.com/etclab/pre	10.004s

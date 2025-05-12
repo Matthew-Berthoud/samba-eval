@@ -1,1 +1,4 @@
-`./run PATH_TO_SAMBA_OR_PRE_REPO_TO_BENCHMARK`
+For PRE benchmarks specifically:
+```bash
+python main.py <path_to_PRE_repo>
+```

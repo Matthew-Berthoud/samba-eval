@@ -1,0 +1,7 @@
+method,ms_per_op
+RandomGt,20.223
+Encrypt,12.682
+ReEncrypt,5.498
+Decrypt1,18.721
+Decrypt2,11.333
+KdfGtToAes256,0.023
