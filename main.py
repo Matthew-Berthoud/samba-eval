@@ -1,6 +1,3 @@
-# Re-running the Python code after the kernel reset to provide the complete updated script again.
-
-import os
 import subprocess
 import argparse
 import matplotlib.pyplot as plt
